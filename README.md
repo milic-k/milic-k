@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I am [Kevin Milic](https://www.linkedin.com/in/kevin-milic-8b1848147/) 👋
+***
+
+
 
 <!--
 **milic-k/milic-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
