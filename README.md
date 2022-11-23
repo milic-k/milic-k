@@ -12,10 +12,9 @@
 <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="HTML Logo" width="150" height="150"/> 
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="JavaScript Logo" width="150" height="150"/>
 <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="JavaScript Logo" width="150" height="150"/>
-<img src="x" alt="JavaScript Logo" width="150" height="150"/>
+<img src="png/LinuxEssentials-Large.png" alt="JavaScript Logo" width="150" height="150"/>
 </p>
 
 <h2> 🤳 Connect with me:</h2>
-<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-
-[linkedin]: https://linkedin.com/in/kevin-milic
+<img align="left" alt="KevinMilic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+<a href="https://linkedin.com/in/kevin-milic">LinkedIn</a>
