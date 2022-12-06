@@ -1,6 +1,11 @@
 <h1>Hi, I'm Kevin! </h1>
 
-<h2>👨‍💻 Software Development Projects</h2>
+<h2>☁️ Cloud Projects</h2>
+
+- <b>Azure</b>
+  - [Resume API on Azure Serverless](https://github.com/milic-k/serverless-resume-api)
+
+<h2>💻 Software Development Projects</h2>
 
 - <b>Python</b>
   - [5-Beginner-Python-Projects](https://github.com/milic-k/5-Beginner-Python-Projects)
