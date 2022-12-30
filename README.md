@@ -13,11 +13,13 @@
 <h2>📄 Certifications</h2>
 
 <p>
-<img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="JavaScript Logo" width="150" height="150"/>
-<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="HTML Logo" width="150" height="150"/> 
-<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="JavaScript Logo" width="150" height="150"/>
-<img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="JavaScript Logo" width="150" height="150"/>
-<img src="png/LinuxEssentials-Large.png" alt="JavaScript Logo" width="150" height="150"/>
+<img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="JavaScript Logo" width="130" height="130"/>
+<img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="JavaScript Logo" width="130" height="130"/>
+<img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="JavaScript Logo" width="130" height="130"/>
+<img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="JavaScript Logo" width="130" height="130"/>
+<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="HTML Logo" width="130" height="130"/> 
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="JavaScript Logo" width="130" height="130"/>
+<img src="png/LinuxEssentials-Large.png" alt="JavaScript Logo" width="130" height="130"/>
 </p>
 
 <h2> 🤳 Connect with me:</h2>
