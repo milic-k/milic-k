@@ -2,8 +2,8 @@
 
 <h2>☁️ Cloud Projects</h2>
 
-- <b>Azure</b>
-  - [Resume API on Azure Serverless](https://github.com/milic-k/serverless-resume-api)
+- <b>AWS</b>
+  - [Deploy infrastructure in AWS with Terraform](https://github.com/k-milic/deploy-infrastructure-with-terraform)
 
 <h2>💻 Software Development Projects</h2>
 
